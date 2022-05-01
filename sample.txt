@@ -1,4 +1,4 @@
 Hello world I'm santhosh
 here
 This is the sample file to check
-
+file added from the intelliJ after installing server and checking able to pull or notr
